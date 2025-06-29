@@ -1,0 +1,4 @@
+python-telegram-bot==13.7
+googletrans==4.0.0-rc1
+telegram
+translate
